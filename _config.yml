@@ -39,3 +39,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - about.md
+  - projects/index.md
+  - poetry/index.md
