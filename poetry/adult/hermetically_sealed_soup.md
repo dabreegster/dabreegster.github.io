@@ -1,4 +1,7 @@
-# Hermetically sealed soup
+---
+layout: page
+title: Hermetically sealed soup
+---
 
 There's no room for boredom at the beginning.
 It's too crowded with thudding hearts raining against
