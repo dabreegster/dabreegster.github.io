@@ -1,4 +1,7 @@
-# Hotel Solipcyst
+---
+layout: page
+title: Hotel Solipcyst
+---
 
 criminal on the run from thought, down slips the sun: you ought
 to check into your mind's hotel -- the appearance certainly does not sell --

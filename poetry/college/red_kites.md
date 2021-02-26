@@ -1,4 +1,7 @@
-# red kites and devils' advocates
+---
+layout: page
+title: red kites and devils' advocates
+---
 
 on the day when the first monosyllabic あいづち from you
 is a more treasured conversation than the book my tongue wrote

@@ -1,4 +1,7 @@
-# Night Photography
+---
+layout: page
+title: Night Photography
+---
 
 To the exploding smiles of a thousand lenses,
 you respond with a well-timed gleam of your own.

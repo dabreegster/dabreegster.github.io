@@ -1,4 +1,7 @@
-# Tree
+---
+layout: page
+title: Tree
+---
 
 tickling the skyline since day 1
 the wind cannot seem to sweep its symmetry off her feet,

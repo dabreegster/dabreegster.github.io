@@ -1,4 +1,7 @@
-# kinematic hedonism
+---
+layout: page
+title: kinematic hedonism
+---
 
 i wake from your deep pocket
 to the shallows of your eyes

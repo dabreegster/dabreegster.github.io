@@ -1,4 +1,7 @@
-# black humor
+---
+layout: page
+title: black humor
+---
 
 The comedian is but the lesser half.
 You could be on the verge of incision.

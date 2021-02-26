@@ -1,4 +1,7 @@
-# On Friendship Ending (remixed)
+---
+layout: page
+title: On Friendship Ending (remixed)
+---
 
 despite the fact that I would see you every day after this,
 you promised to never be the person I met.

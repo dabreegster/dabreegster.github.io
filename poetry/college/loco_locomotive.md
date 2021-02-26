@@ -1,4 +1,7 @@
-# thought-trains and loco locomotives
+---
+layout: page
+title: thought-trains and loco locomotives
+---
 
 I invite you to blur these lines and their in-betweens with a
 calculated imprecision.

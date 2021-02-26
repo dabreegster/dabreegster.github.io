@@ -1,4 +1,7 @@
-# replay value
+---
+layout: page
+title: replay value
+---
 
 strategically place little breaks
 in the flow the perfect balance broken

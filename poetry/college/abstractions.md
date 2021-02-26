@@ -1,4 +1,7 @@
-# Abstractions, love, and other general nonsense
+---
+layout: page
+title: Abstractions, love, and other general nonsense
+---
 
 For DS, Spring 2011.
 

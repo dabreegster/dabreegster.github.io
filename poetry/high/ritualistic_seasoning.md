@@ -1,4 +1,7 @@
-# a ritualistic season(ing)
+---
+layout: page
+title: a ritualistic season(ing)
+---
 
 the dirt green hoods pulled taut over one lazy devilish eye,
 clean red skin blistering with last summer's sweat

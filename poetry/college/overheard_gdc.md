@@ -1,4 +1,7 @@
-# Overheard by somebody sleeping in the GDC
+---
+layout: page
+title: Overheard by somebody sleeping in the GDC
+---
 
 I'm like a person with various famous figures stuck in my head
 I try to sign autographs, and all that comes out is

@@ -1,4 +1,7 @@
-# The Great Heist
+---
+layout: page
+title: The Great Heist
+---
 
 Swipe the card past pressed lips -- declined
 To the Bank where cold love passes Heir to Heir

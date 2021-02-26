@@ -1,3 +1,6 @@
-# Poetry
+---
+layout: page
+title: Poetry
+---
 
 Writings

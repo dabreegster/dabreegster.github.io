@@ -1,4 +1,7 @@
-# Kohlberg's Devil
+---
+layout: page
+title: Kohlberg's Devil
+---
 
 Blush: avoid those eyes, that charred grin
 Let ice be unbroken, an archaic dream the tragic fiction.

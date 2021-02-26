@@ -1,4 +1,7 @@
-# before the wavefunction collapses
+---
+layout: page
+title: before the wavefunction collapses
+---
 
 old shadows doffing their skinsuits
 onto me, confessing:

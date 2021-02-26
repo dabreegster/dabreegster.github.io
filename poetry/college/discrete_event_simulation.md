@@ -1,4 +1,7 @@
-# discrete event simulation.
+---
+layout: page
+title: discrete event simulation.
+---
 
 what if the time-steps are too slow,
 the movement i feel from your orbit rounding off to zero?

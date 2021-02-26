@@ -1,4 +1,7 @@
-# A Heart's Proprietary Design
+---
+layout: page
+title: A Heart's Proprietary Design
+---
 
 Insisting with monotone eyes, "I'm fine."
 You pause. And glance away,
