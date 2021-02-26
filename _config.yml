@@ -44,3 +44,7 @@ header_pages:
   - about.md
   - projects/index.md
   - poetry/index.md
+
+# Mainly so the poetry works... hmm
+kramdown:
+  hard_wrap: true
