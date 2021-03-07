@@ -24,6 +24,9 @@ A huge part of parkour culture is filming lines. Here are some of my favorite wo
 - [Bleeding Water](https://www.youtube.com/watch?v=5xFsTmrrjds): in which I come to a sort of reckoning with my hometown, Baton Rouge.
 - [Texas Winter Jam](https://www.youtube.com/watch?v=6E4EF7Ab6MQ): I went to college in Austin, but somehow didn't start parkour while I lived there! Luckily, I went back.
 - [May 2019](https://www.youtube.com/watch?v=hAEtro2kfEg): contains the only bail I've ever caught on film.
+- [Red Square line](https://youtu.be/j3EoH4CN0PM): a longer line at UW, without anything high-impact.
+- [Fremont cat leap](https://youtu.be/1xxDmgz5Rtg): the first jump that I really had to undergo an inner process to break. I was looking at this for around two years first.
+- [Volunteer Park lines](https://youtu.be/ZA5_FGShCec): some of my favorite things developed through weekly EMP meetups.
 
 ## Maps
 
