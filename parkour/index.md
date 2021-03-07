@@ -3,6 +3,10 @@ layout: page
 title: Parkour
 ---
 
+<video width="480" height="480" controls="controls">
+  <source src="library.mp4" type="video/mp4">
+</video>
+
 I've been practicing parkour since December 2015. I started learning with [Parkour Visions](https://parkourvisions.org), and was part of the formation of [Seattle Jumps](https://www.instagram.com/seattlejumps), a tight-knit community with regular meetups. I've met many of my best friends locally through it, and have had the pleasure of training with groups across 5 countries. I've learned a fair bit about myself, mind and body, and the nature of fear along the way.
 
 ![lazy vault, photo by Filip Tuhy](lazy_vault.jpg)
