@@ -23,7 +23,9 @@ A huge part of parkour culture is filming lines. Here are some of my favorite wo
 
 ## Maps
 
-TODO
+![Red Square line](red_square.png)
+
+I stumbled into my current project because I've loved maps all my life, so of course at some point I tried to combine parkour and cartography. [Move fast and map things](move_fast_and_map_things.pdf) is a talk I gave at the Art of Retreat in 2018 about notations for representing parkour-conducive spaces and movements through them.
 
 ## Join me!
 
