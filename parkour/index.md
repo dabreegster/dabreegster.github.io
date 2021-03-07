@@ -3,15 +3,15 @@ layout: page
 title: Parkour
 ---
 
+I've been practicing parkour since December 2015. I started learning with [Parkour Visions](https://parkourvisions.org), and was part of the formation of [Seattle Jumps](https://www.instagram.com/seattlejumps), a tight-knit community with regular meetups. I've met many of my best friends locally through it, and have had the pleasure of training with groups across 5 countries. I've learned a fair bit about myself, mind and body, and the nature of fear along the way.
+
 <video width="480" height="480" controls="controls">
   <source src="library.mp4" type="video/mp4">
 </video>
 
-I've been practicing parkour since December 2015. I started learning with [Parkour Visions](https://parkourvisions.org), and was part of the formation of [Seattle Jumps](https://www.instagram.com/seattlejumps), a tight-knit community with regular meetups. I've met many of my best friends locally through it, and have had the pleasure of training with groups across 5 countries. I've learned a fair bit about myself, mind and body, and the nature of fear along the way.
+So what is parkour -- it's that crazy sport where people huck themselves off of buildings, right? Not at all -- [this video](https://www.youtube.com/watch?v=w-2i3STn6bQ) is the best explanation to start with. My own movement style has changed over the years, most recently focusing on [flowy movement](https://www.instagram.com/p/B4jVcXMAw9a/) and [squeezing through tight spaces](https://www.instagram.com/p/CKaTLPQFK_j/).
 
 ![lazy vault, photo by Filip Tuhy](lazy_vault.jpg)
-
-So what is parkour -- it's that crazy sport where people huck themselves off of buildings, right? Not at all -- [this video](https://www.youtube.com/watch?v=w-2i3STn6bQ) is the best explanation to start with. My own movement style has changed over the years, most recently focusing on [flowy movement](https://www.instagram.com/p/B4jVcXMAw9a/) and [squeezing through tight spaces](https://www.instagram.com/p/CKaTLPQFK_j/).
 
 ## Videos
 
