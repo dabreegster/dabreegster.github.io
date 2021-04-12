@@ -7,7 +7,7 @@ I really need to get some of these running again and put them online...
 
 ## Transportation
 
-[A/B Street](abstreet.org) is my current main focus. I've written plenty about it elsewhere, but maybe you're particularly looking for [its backstory](https://a-b-street.github.io/docs/project/history/backstory.html)...
+[A/B Street](https://abstreet.org) is my current main focus. I've written plenty about it elsewhere, but maybe you're particularly looking for [its backstory](https://a-b-street.github.io/docs/project/history/backstory.html)...
 
 [AORTA](https://github.com/dabreegster/aorta/) was my undergrad [thesis](http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2157.pdf) at UT Austin. Using the Approximately Orchestrated Routing & Transportation Analyzer, I once asked, [what if vehicles could bid in auctions to turn a traffic light green faster...](https://ieeexplore.ieee.org/abstract/document/6728285)
 
@@ -17,7 +17,7 @@ I originally started programming to try to make games. Using a roguelike engine 
 
 The summer between college and work, I started Hotel Solipcyst, a game based on [an old poem](../poetry/high/hotel_solipcyst.md). The concept was that disasters stack -- even if the hotel catches fire and all guests are poisoned, you (the butler) forge on through the time-looping day, slowly manipulating people's schedules... The project is in Scala, and when I get it running again, I'll put it online.
 
-The only game that I've ever actually finished in any real sense is [15-minute Santa](santa.abstreet.org) -- so go play it!
+The only game that I've ever actually finished in any real sense is [15-minute Santa](http://santa.abstreet.org) -- so go play it!
 
 ## Mapping
 
