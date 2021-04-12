@@ -5,6 +5,10 @@ title: Poetry
 
 I've been writing since childhood, off and on. In high school, a certain teacher introduced me to the work of Charles Simic, and for a while, I practiced imitation. Through that, I think I found my voice.
 
+> Monotonic toxic release
+> Shepard tones, chilling bones
+> Forever up a stair increase
+
 ## Junior high
 
 Not very much of my early work is worth sharing, but [replay value](jr_high/replay_value.md) is representative of the pre-Simic era.

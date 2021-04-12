@@ -1,3 +1,0 @@
-# AORTA
-
-Blah blah blah

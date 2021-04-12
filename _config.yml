@@ -41,7 +41,6 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - about.md
   - projects/index.md
   - poetry/index.md
   - parkour/index.md
