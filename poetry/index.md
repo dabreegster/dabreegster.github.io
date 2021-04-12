@@ -31,8 +31,8 @@ And others:
 
 - [Hotel Solipcyst](high/hotel_solipcyst.md) -- eventually this became a game
 - [Night Photography](high/night_photography.md)
-- [On Friendship Ending (high/remixed)](on_friendship_ending.md)
-- [a ritualistic season(high/ing)](ritualistic_seasoning.md) -- trying to capture that Louisiana background
+- [On Friendship Ending (remixed)](high/on_friendship_ending.md)
+- [a ritualistic season(ing)](high/ritualistic_seasoning.md) -- trying to capture that Louisiana background
 - [before the wavefunction collapses](high/wave_function_collapse.md)
 - [kinematic hedonism](high/kinematic_hedonism.md)
 - [Tree](high/tree.md)
