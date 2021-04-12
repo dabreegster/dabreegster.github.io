@@ -29,4 +29,4 @@ Possibly my first winter in Seattle, I learned OpenGL by making a 3D OpenStreetM
 
 The first real program I wrote was the Jigstar Music Daemon, or JMD, and I still use it to this day. When I'm playing all of my music on shuffle, sometimes I'm reminded of a particular band I haven't heard in a while. I want to go listen to their stuff, but not lose my place in the original shuffle. So I want a stack of queues as my playlist. Somehow in ~2004, I couldn't find anything to do this on Linux, so I put all those computer books from the library to good use and started learning enough Perl to get this working. I think it probably took a while (and so many questions on the #perl and #perlcafe channels from Freenode!), and the first version didn't have NCurses or SQLite support, but I'm quite pleased with how it turned out.
 
-[JMD](jmd.png)
+![JMD](jmd.png)
