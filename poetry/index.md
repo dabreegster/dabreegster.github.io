@@ -57,3 +57,5 @@ Writing almost feels like a lost muscle now, but sometimes it still has to happe
 [Hermetically sealed soup](adult/hermetically_sealed_soup.md) is an attempt at finding second wind in an airlock.
 
 I wrote [First contact](adult/first_contact.md) for [Once is never](https://www.instagram.com/onceisnever_parkourzine/), a parkour zine produced by my good friends. Between when I first drafted it and finally finished it, lots happened in the world, and I realized I had inadvertently written about at least 3 totally separate things.
+
+First sonnet in at least a decade involves [public transit](adult/public_transit.md).
