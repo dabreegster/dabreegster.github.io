@@ -44,6 +44,7 @@ header_pages:
   - projects/index.md
   - poetry/index.md
   - parkour/index.md
+  - prose/index.md
 
 # Mainly so the poetry works... hmm
 kramdown:
