@@ -5,7 +5,7 @@ title: Prose
 
 I swear I'll write about something other than A/B Street eventually. Some essays:
 
-- [The Almost Postmortem](https://a-b-street.github.io/docs/project/retrospective/index.html)
+- [The Almost Postmortem](https://a-b-street.github.io/docs/project/history/retrospective/index.html)
 - [Theory of change](https://a-b-street.github.io/docs/software/ungap_the_map/motivation.html)
 
 Technical articles, with lots of pictures and the appropraite amount of humor:
