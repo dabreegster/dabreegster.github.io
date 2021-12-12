@@ -27,6 +27,7 @@ A huge part of parkour culture is filming lines. Here are some of my favorite wo
 - [Red Square line](https://youtu.be/j3EoH4CN0PM): a longer line at UW, without anything high-impact.
 - [Fremont cat leap](https://youtu.be/1xxDmgz5Rtg): the first jump that I really had to undergo an inner process to break. I was looking at this for around two years first.
 - [Volunteer Park lines](https://youtu.be/ZA5_FGShCec): some of my favorite things developed through weekly EMP meetups.
+- [A Gradual Return](https://www.youtube.com/watch?v=59APhFG3bIk): my last jumps in Seattle, and the first small steps after an ACL surgery.
 
 ## Maps
 
