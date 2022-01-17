@@ -37,8 +37,6 @@ I stumbled into my current project because I've loved maps all my life, so of co
 
 ## Join me!
 
-Open offer: if you're ever passing through Seattle and want to try parkour, ping me! I've taught dozens of people their first lesson. "It's dangerous" is a shaky excuse -- proper parkour is all about progressing at an appropriate pace and managing risk. I won't stand for "I'm not in shape" -- you can start anywhere, and parkour is a **fun** way to exercise. Paraphrased by a friend Brandee Laird: everybody moves; parkour just helps you move better.
+Open offer: if you're ever passing through London and want to try parkour, ping me! I've taught dozens of people their first lesson. "It's dangerous" is a shaky excuse -- proper parkour is all about progressing at an appropriate pace and managing risk. I won't stand for "I'm not in shape" -- you can start anywhere, and parkour is a **fun** way to exercise. Paraphrased by a friend Brandee Laird: everybody moves; parkour just helps you move better.
 
 If you're interested in trying it out in your own area and can't find anybody to practice with, I might also be able to help find your local community.
-
-(And in case anybody takes me up on the offer while COVID's still a concern: we'd practice outside with masks in a way that we're both comfortable with.)
