@@ -49,6 +49,7 @@ with open("summary.csv", "w") as out:
             [
                 doc["map"]["city"]["country"],
                 doc["map"]["city"]["city"],
+                "maps",
                 doc["map"]["map"],
             ]
         )
@@ -60,7 +61,7 @@ with open("summary.csv", "w") as out:
                 "datetime_raw": creation_time,
                 "map_name": map_name,
                 "proposal_name": doc["name"],
-                "url": f"http://play.abstreet.org/0.3.33/ltn.html?system/{map_name}.bin&--proposal=remote/{filename}",
+                "url": f"http://play.abstreet.org/0.3.35/ltn.html?system/{map_name}.bin&--proposal=remote/{filename}",
                 "road_edits": len(doc["edits"]["roads"]),
                 "intersection_edits": len(doc["edits"]["intersections"]),
                 "one_way_edits": len(doc["edits"]["one_ways"]),
