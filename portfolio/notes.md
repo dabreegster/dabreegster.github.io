@@ -1,44 +1,53 @@
-# A/B Street
-Traffic simulation game
+# Axes
 
-# Low-traffic neighbourhood
+- tech stack / language?
+- status?
+- audience?
+- git repo
+- link to docs / homepage maybe
+- image / video
+- description
 
-# 15-minute neighbourhood
+# Modern
 
-# 15-minute Santa
+- A/B Street platform (user audience)
+	- A/B Street traffic simulator
+	- Ungap the map
+	- 15m neighbourhood
+	- 15m santa
+	- LTN tool
+	- defunct/tiny: parking mapper, osm viewer
+- widgetry (library)
+- osm2streets (dev audience, or OSM mappers)
+	- library
+	- svelte app (street explorer)
+	- WIP lane editor
+	- defunct: osm2lanes
+- Bus spotting
+- ATIP
+	- scheme sketcher
+	- browse / layers
+- route snapper
+- odjitter
+- untitled routing engine
+- SPC
+- popgetter
+- country-geocoder
 
-# Ungap the Map
 
-# osm2streets
+# Half-baked experiment...
 
-# OSM lane editor (osm2streets)
+- geodiffr
+- odviz
+- nolli
+- glitch city
 
-# osm2lanes
+and TODO: calculate road width
 
-# Bus Spotting
+# Very very old...
 
-# Synthetic Population Catalyst
-
-# Active Travel Intervention Platform
-
-# MapLibre route snapper
-
-# AORTA
-
-# odjitter
-
-
-
-# Nolli
-
-# Glitch City
-
-# Popgetter
-
-# mnemonicrl
-
-# JMD
-
-# campus map
-
-# 3d scala osm viewer
+- AORTA
+- mnemonicrl
+- jmd
+- 3d scala osm viewer
+- campus map
