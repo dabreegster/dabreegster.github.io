@@ -10,7 +10,7 @@ I don't like to write regularly, so when I do, it's not short. I've previously w
 
 ### Context
 
-I didn't travel much at all growing up, and it took a while to leave the US. But in 2019, in the middle of my 3 years of solo focusing on A/B Street, I took two month-long trips: one to attend a workshop by the founders of parkour (winding up in Paris, London, and Berlin) and another in Japan. Both times, my main record of the trips was a video mostly focused on parkour during the trips, but with plenty of b-roll ([Europe](https://www.youtube.com/watch?v=dlsyDEjyZc4), [Japan](https://www.youtube.com/watch?v=U6v06BqlOJU)). I wish I had travelled much more during 2018 and 2019, when I had the time and means. If I had known what 2020 would be...
+I didn't travel much at all growing up, or go outside the US much. But in 2019, in the middle of my 3 years of solo focusing on A/B Street, I took two month-long trips: one to attend a workshop by the founders of parkour (winding up in Paris, London, and Berlin) and another in Japan. Both times, my main record of the trips was a video mostly focused on parkour during the trips, but with plenty of b-roll ([Europe](https://www.youtube.com/watch?v=dlsyDEjyZc4), [Japan](https://www.youtube.com/watch?v=U6v06BqlOJU)). I wish I had travelled much more during 2018 and 2019, when I had the time and means. If I had known what 2020 would be...
 
 Then after moving to London at the end of 2021 and starting a job, I wasted most of my generous holiday time in 2022 (not counting Taiwan!). I wasn't used to being on a work schedule again, and I was used to reasoning about the puny 2 or 3 weeks from jobs in the US. So for 2023, I strategized a bit and decided to save most for the end of the year. Summer holidays are common in the UK, but the Europe heatwaves warded me off. It would be a winter trip instead, and I definitely wanted to return to Japan.
 
@@ -70,7 +70,7 @@ I walked to the top from Central. I love steep uphills (and might've surprised a
 
 Completely unintentionally, I wound up staying at a [famous building](https://en.wikipedia.org/wiki/Chungking_Mansions). I guess if you go for cheap housing, this is pretty inevitable -- just [take a look](https://www.openstreetmap.org/way/39315991) at how many guesthouses are crammed in one place. The first day or so, getting in or out from my guesthouse was a matter of memorizing landmarks and turns on the ground floor maze. I got a bit interested in indoor mapping the space and finding connections between the tower blocks, but ran out of time.
 
-<figure><img src="hk/chungking/blood.jpg" alt="The lifts were slow and crowded, and besides, if you take the stairs, you'll miss the... stains in the corners." /><figcaption>The lifts were slow and crowded, and besides, if you take the stairs, you'll miss the... stains in the corners.</figcaption></figure>
+<figure><img src="hk/chungking/blood.jpg" alt="The lifts were slow and crowded, and besides, if you didn't take the stairs, you'd miss the... stains in the corners." /><figcaption>The lifts were slow and crowded, and besides, if you didn't take the stairs, you'd miss the... stains in the corners.</figcaption></figure>
 
 <figure><img src="hk/chungking/neg_space.jpg" alt="Negative space between the tower blocks. This was daytime and the sky was up there somewhere, but good luck seeing it with the shadow" /><figcaption>Negative space between the tower blocks. This was daytime and the sky was up there somewhere, but good luck seeing it with the shadow</figcaption></figure>
 
