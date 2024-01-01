@@ -12,3 +12,7 @@ Technical articles, with lots of pictures and the appropraite amount of humor:
 
 - [Deep dive into devilish details: Intersection geometry](https://a-b-street.github.io/docs/tech/map/geometry/index.html)
 - [Discrete event traffic simulation, laggy heads, and ghosts](https://a-b-street.github.io/docs/tech/trafficsim/discrete_event/index.html)
+
+I took a long trip in December 2023 and wrote about it:
+
+- [Part 1: Hong Kong](dec2023/pt1_hk.md)
