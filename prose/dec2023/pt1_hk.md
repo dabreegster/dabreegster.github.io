@@ -4,6 +4,9 @@
 
 All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). I compressed a bunch; [email me](mailto:dabreegster@gmail.com) if you want originals.
 
+- Part 1: Hong Kong
+- Part 2: [Tokyo](pt2_tokyo.md)
+
 ## Introduction
 
 I don't like to write regularly, so when I do, it's not short. I've previously written a [reflection on 3 years of A/B Street](https://a-b-street.github.io/docs/project/history/retrospective/index.html) and a [technical lookback on 2022](https://a-b-street.github.io/docs/project/history/vision_and_validate/index.html). This year is different -- this post is about a month-long trip I took to Hong Kong, Japan, and Korea. I'm finishing writing it back in London, but it's sourced from an ~11,000 word daily journal and too many photos. I don't really know who the audience is -- I kept that journal and am writing this reflection for personal reasons, but I'm happy to share this cross-section of my life with anyone curious.
@@ -155,4 +158,4 @@ To end, a few memories from my journal:
 
 This first part comes off as kind of impersonal, not story-like. I think that's reflective of how I felt on the first week of the trip -- a bit exhausted from adapting to everything. And of course there's plenty of thoughts from my journal that week that I'm not echoing here.
 
-I originally wanted to finish writing about my entire month and release everything all at once, but then the caffeine wore off... stay tuned for part 2 about Japan!
+I originally wanted to finish writing about my entire month and release everything all at once, but then the caffeine wore off... continue onto [part 2 about Japan](pt2_tokyo.md)!

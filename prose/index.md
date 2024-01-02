@@ -16,3 +16,4 @@ Technical articles, with lots of pictures and the appropraite amount of humor:
 I took a long trip in December 2023 and wrote about it:
 
 - [Part 1: Hong Kong](dec2023/pt1_hk.md)
+- [Part 2: Tokyo](dec2023/pt2_tokyo.md)
