@@ -6,6 +6,7 @@ All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 - Part 1: [Hong Kong](pt1_hk.md)
 - Part 2: Tokyo
+- Part 3: [Takayama](pt3_takayama.md)
 
 ## Introduction: Tokyo (6 days)
 
