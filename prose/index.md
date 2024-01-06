@@ -18,3 +18,4 @@ I took a long trip in December 2023 and wrote about it:
 - [Part 1: Hong Kong](dec2023/pt1_hk.md)
 - [Part 2: Tokyo](dec2023/pt2_tokyo.md)
 - [Part 3: Takayama](dec2023/pt3_takayama.md)
+- [Part 4: Karuizawa](dec2023/pt4_karuizawa.md)

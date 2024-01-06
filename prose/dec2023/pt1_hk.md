@@ -7,6 +7,7 @@ All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Part 1: Hong Kong
 - Part 2: [Tokyo](pt2_tokyo.md)
 - Part 3: [Takayama](pt3_takayama.md)
+- Part 4: [Karuizawa](pt4_karuizawa.md)
 
 ## Introduction
 

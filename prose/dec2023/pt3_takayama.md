@@ -7,6 +7,7 @@ All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Part 1: [Hong Kong](pt1_hk.md)
 - Part 2: [Tokyo](pt2_tokyo.md)
 - Part 3: Takayama
+- Part 4: [Karuizawa](pt4_karuizawa.md)
 
 ## Introduction: Takayama (2 days)
 
