@@ -20,3 +20,4 @@ I took a long trip in December 2023 and wrote about it:
 - [Part 3: Takayama](dec2023/pt3_takayama.md)
 - [Part 4: Karuizawa](dec2023/pt4_karuizawa.md)
 - [Part 5: Kyoto and Narita](dec2023/pt5_kyoto.md)
+- [Part 6: Seoul](dec2023/pt6_seoul.md)
