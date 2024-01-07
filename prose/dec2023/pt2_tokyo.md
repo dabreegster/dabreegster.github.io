@@ -10,6 +10,7 @@ All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Part 4: [Karuizawa](pt4_karuizawa.md)
 - Part 5: [Kyoto and Narita](pt5_kyoto.md)
 - Part 6: [Seoul](pt6_seoul.md)
+- Part 7: [Reflections](pt7_reflections.md)
 
 ## Introduction: Tokyo (6 days)
 
