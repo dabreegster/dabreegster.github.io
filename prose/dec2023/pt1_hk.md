@@ -8,6 +8,7 @@ All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Part 2: [Tokyo](pt2_tokyo.md)
 - Part 3: [Takayama](pt3_takayama.md)
 - Part 4: [Karuizawa](pt4_karuizawa.md)
+- Part 5: [Kyoto and Narita](pt5_kyoto.md)
 
 ## Introduction
 
