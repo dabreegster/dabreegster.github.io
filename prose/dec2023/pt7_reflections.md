@@ -11,6 +11,7 @@ All photos are [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Part 5: [Kyoto and Narita](pt5_kyoto.md)
 - Part 6: [Seoul](pt6_seoul.md)
 - Part 7: Reflections
+- Part 8: [Technical projects](pt8_tech.md)
 
 I thought about lots of things during December, and I wanted to share some of them.
 
