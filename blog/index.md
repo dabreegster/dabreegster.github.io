@@ -5,11 +5,7 @@ title: Blog
 
 **2024**
 
-- January 7: [Technical projects during December 2023 trip](../prose/dec2023/pt8_tech.md)
-- January 7: [Reflections on December 2023 trip](../prose/dec2023/pt7_reflections.md)
-- January 7: [Seoul trip](../prose/dec2023/pt6_seoul.md)
-- January 7: [Kyoto & Narita trip](../prose/dec2023/pt5_kyoto.md)
-- January 7: [Kyoto & Narita trip](../prose/dec2023/pt5_kyoto.md)
+- January 7: [Kyoto & Narita trip](../prose/dec2023/pt5_kyoto.md), [Seoul trip](../prose/dec2023/pt6_seoul.md), [Reflections on December 2023 trip](../prose/dec2023/pt7_reflections.md), and [Technical projects during December 2023 trip](../prose/dec2023/pt8_tech.md)
 - January 6: [Karuizawa trip](../prose/dec2023/pt4_karuizawa.md)
 - January 4: [Takayama trip](../prose/dec2023/pt3_takayama.md)
 - January 2: [Tokyo trip](../prose/dec2023/pt2_tokyo.md)
