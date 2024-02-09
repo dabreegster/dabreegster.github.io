@@ -62,4 +62,4 @@ First sonnet in at least a decade involves [public transit](adult/public_transit
 
 One week after being summoned, I am forced to confront [the homeopathological case](adult/homeopathological.md).
 
-After almost a decade, I've tried reading poetry to a crowd before. [Autobiography of a Lambeth flaneur](adult/lambeth_flaneur.md) iss a more traditional piece, and [some choice words for my archway nemesis](adult/archway_nemesis.md) is a battle rap, though missing a partner.
+After almost a decade, I've tried reading poetry to a crowd before. [Autobiography of a Lambeth flaneur](adult/lambeth_flaneur.md) is a more traditional piece, and [some choice words for my archway nemesis](adult/archway_nemesis.md) is a battle rap, though missing a partner.
