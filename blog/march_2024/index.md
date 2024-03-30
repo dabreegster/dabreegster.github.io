@@ -21,15 +21,15 @@ I spent most of the last few months on an internal pipeline using the above -- f
 
 I also added a few contextual layers to the [ATIP scheme browser](https://acteng.github.io/atip/browse.html), a tool used internally to visualize active travel schemes alongside many different UK datasets. I did use Rust for the input data processing here, and that feels like the right choice! Svelte, MapLibre, and PMTiles have continued to be a winning combo for very quickly getting a nice frontend to work. Some particularly cool new layers:
 
-![gradients.gif]()
+![](gradients.gif)
 
 How steep is a street? Using open Ordnance Survey raster data and [joining to OSM center-lines](https://github.com/acteng/atip-data-prep/blob/main/gradient/src/main.rs), we can start to get an idea.
 
-![bus.gif]()
+![](bus.gif)
 
 When there are cycleways next to a bus stop, when is a bypass worth it? It depends on how many buses there'll be at that stop per hour. Using an England-wide GTFS extract from the UK's awesome [Bus Open Data Service](https://www.bus-data.dft.gov.uk) and a simple [Rust script](https://github.com/acteng/atip-data-prep/tree/main/bus_frequency), we can calculat and visualize that. This finds the precise [one-hour interval](https://github.com/acteng/atip-data-prep/blob/ac2603fd04096baed6baee8cf720146f93873a28/bus_frequency/src/main.rs#L60) with the most buses, across any service and any day.
 
-![stats19.gif]()
+![](stats19.gif])
 
 Finally, this [stats19](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance) layer shows different types of collisions. The [data processing](https://github.com/acteng/atip-data-prep/blob/main/stats19/src/main.rs) is simple; most of the magic is in the [frontend](https://github.com/acteng/atip/blob/main/src/lib/browse/layers/points/Stats19.svelte).
 
@@ -59,9 +59,9 @@ But then a new contributor created [Muv](https://gitlab.com/LeLuxNet/Muv/), a Ru
 - rendering more [lane and intersection markings](https://github.com/a-b-street/osm2streets/pull/241) from A/B Street directly in MapLibre
 - fixing some cases where [intersection geometry failed](https://github.com/a-b-street/osm2streets/pull/245) and blew up everything downstream
 
-![borough.png]()
+![](borough.png)
 
-![tempe.png]()
+![](tempe.png)
 
 Then some exciting new stuff happened! Thanks to my slightly better understanding of how crossings are tagged in OSM from working on Severance Snape, I started [rendering zebra and unmarked crossings](https://github.com/a-b-street/osm2streets/pull/247). Then, looking at places where sidewalks and crossings are explicitly mapped as separate objects in OSM, ideas from the LTN tool and route snapper began to surface. The [negative space](https://github.com/a-b-street/osm2streets/pull/250) in between dual carriageways, the side of a road and a sidewalk, and so on can all be traced pretty easily, assuming osm2streets gets the basic road and intersection geometry halfway decently. If that tracing is restricted to just look at sidewalks and crossings, then [something very cool emerges](https://github.com/a-b-street/osm2streets/pull/251) -- a way to group a subset of the OSM graph into "bundles" of roads with their side-paths, and into complex junctions.
 
