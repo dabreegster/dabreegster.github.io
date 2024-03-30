@@ -5,6 +5,7 @@ title: Blog
 
 **2024**
 
+- 30 March: [The osm2streets revival and last 3 months](march_2024/index.md)
 - January 7: [Kyoto & Narita trip](../prose/dec2023/pt5_kyoto.md), [Seoul trip](../prose/dec2023/pt6_seoul.md), [Reflections on December 2023 trip](../prose/dec2023/pt7_reflections.md), and [Technical projects during December 2023 trip](../prose/dec2023/pt8_tech.md)
 - January 6: [Karuizawa trip](../prose/dec2023/pt4_karuizawa.md)
 - January 4: [Takayama trip](../prose/dec2023/pt3_takayama.md)
