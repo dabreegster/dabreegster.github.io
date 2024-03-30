@@ -29,7 +29,7 @@ How steep is a street? Using open Ordnance Survey raster data and [joining to OS
 
 When there are cycleways next to a bus stop, when is a bypass worth it? It depends on how many buses there'll be at that stop per hour. Using an England-wide GTFS extract from the UK's awesome [Bus Open Data Service](https://www.bus-data.dft.gov.uk) and a simple [Rust script](https://github.com/acteng/atip-data-prep/tree/main/bus_frequency), we can calculat and visualize that. This finds the precise [one-hour interval](https://github.com/acteng/atip-data-prep/blob/ac2603fd04096baed6baee8cf720146f93873a28/bus_frequency/src/main.rs#L60) with the most buses, across any service and any day.
 
-![](stats19.gif])
+![](stats19.gif)
 
 Finally, this [stats19](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance) layer shows different types of collisions. The [data processing](https://github.com/acteng/atip-data-prep/blob/main/stats19/src/main.rs) is simple; most of the magic is in the [frontend](https://github.com/acteng/atip/blob/main/src/lib/browse/layers/points/Stats19.svelte).
 
