@@ -245,6 +245,8 @@ Given highly detailed width data (from polygon-widths or similar), a route, and 
 - [Temporal city](https://github.com/dabreegster/temporal_city): Looking at OSM opening hours to see what parts of a city are lively at night or early on a Saturday
 - [SVG face](https://github.com/dabreegster/svg_face): Generate random SVG faces for A/B Street
 - [Canvas geometry](https://github.com/dabreegster/canvas_geometry): Exploring if road width can be calclated from OSM building footprints, and trying out SVG rendering
+- [odviz](https://github.com/dabreegster/odviz): Visualize different types of aggregate origin/destination data
+- [Nolli and Glitch City](https://github.com/dabreegster/nolli): Playing around with Bevy to prototype some map-based art projects.
 
 ## Libraries
 
@@ -255,3 +257,33 @@ Aside from route-snapper and osm2streets, these're smaller libraries in support 
 - [osm-reader](https://github.com/a-b-street/osm-reader): read OSM XML or PBF interchangeably in Rust
 - [utils](https://github.com/a-b-street/utils/): common Rust code that's yet to be upstreamed elsewhere or properly split out
 - [svelte-utils](https://github.com/a-b-street/svelte-utils): common Svelte code yet to be properly split out into a library
+
+## Projects I'm involved in
+
+Through my job at the [Alan Turing Institute](https://urban-analytics-technology-platform.github.io), I'm involved in a few projects, but not leading or doing very much on them:
+
+### Synthetic Population Catalyst
+
+This combines a bunch of UK data sources to generate a synthesized population with individual-level detail. I ported a first version from Python to Rust for performance and correctness gains, and wrote lots of the docs.
+
+- [Site](https://alan-turing-institute.github.io/uatk-spc)
+- [Code](https://github.com/alan-turing-institute/uatk-spc)
+
+### Popgetter
+
+Just finding, downloading, and cleaning up census data from any one country is a headache enough, but what if you want to build something that could work in any country? Popgetter handles data acquisition and cleaning per country and presents common formats and APIs. I'm responsible for introducing the idea for this and partly convincing a bunch of teammates to build it!
+
+- [Code](https://github.com/Urban-Analytics-Technology-Platform/popgetter)
+
+### Meet Me Halfway
+
+A tool to find POIs for friends to meet, optimizing for centrally located areas with individual preferences. I started the prototype during a hackathon.
+
+- [Site](https://hussein-mahfouz.github.io/meet-me-halfway)
+- [Code](https://github.com/Hussein-Mahfouz/meet-me-halfway)
+
+### UATP web app template
+
+A template using Svelte, MapLibre, and Rust or Python for a WASM backend to make it easy for data scientists to start an easy-to-host interactive web app, without much knowledge of web dev. I'm helping build this template, drawing on all of my projects using this kind of stack.
+
+- [Code](https://github.com/Urban-Analytics-Technology-Platform/web-app-template)

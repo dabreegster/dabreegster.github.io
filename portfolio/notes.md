@@ -10,21 +10,6 @@ not including things I did interning at FB or working for Google
 - image / video
 - description
 
-# Projects I'm involved in, but not leading
-
-- SPC
-- popgetter
-- meet in middle
-- uatp web app template
-
-# Half-baked experiment...
-
-- odviz
-- nolli
-- glitch city
-
-and TODO: calculate road width
-
 # Apocrypha (before 2018)
 
 - AORTA
