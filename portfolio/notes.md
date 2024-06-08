@@ -12,10 +12,6 @@ not including things I did interning at FB or working for Google
 
 # Modern
 
-- route snapper
-	- A MapLibre plugin to draw routes and areas that snap to an existing road network from OpenStreetMap.
-	- status: ready
-	- audience: web developers
 - Bus spotting
 	- View GTFS data interactively and match real GPS traces and bus ticketing events to the schedule.
 	- status: abandoned prototype
@@ -24,42 +20,33 @@ not including things I did interning at FB or working for Google
 	- Generate specific origin/destination data from zone-based summaries
 	- status: Usable, but abandonded -- use od2net instead
 	- audience: data scientists
-- ATIP scheme sketcher
-	- Sketch proposed walking/cycling infrastructure on a map and fill out forms to describe it
-	- audience: gov agencies, but easy enough for anyone
-	- status: active development, my day job
-- ATIP scheme browser
-	- View ATIP scheme data alongside over 30 contextual layers, to help evaluate the proposed schemes
-	- audience: internal gov (though public version is available without scheme data or all layers)
-	- status: active development, my day job
-- atip data prep
-- inspectorate tools
+
 - country-geocoder
 	- Look up
 
 - lines2pmtiles
 
 
-- od2net
 
-- severance snape
 - canvas_geometry
-- ltn 2.0
 - elevation
 - osm-reader
+- rs utils and svelte-utils
 - temporal city
 - svg face
 
 
-- geojson-viewer
-- geodiffr
 
 # Projects I'm involved in, but not leading
 
 - SPC
 - popgetter
+- meet in middle
+- uatp web app template
 
 # Half-baked experiment...
+
+polygon-width and will-it-fit
 
 - odviz
 - nolli
