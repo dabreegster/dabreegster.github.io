@@ -205,3 +205,53 @@ Interactively explore the difference between two GeoJSON files. The diff could r
 - [Code](https://github.com/dabreegster/geodiffr)
 - Audience: developers and data scientists
 - Status: Usable (I made this for my own debugging convenience, and it's already more convenient than alternatives for me personally)
+
+## Experiments
+
+### Bus Spotting
+
+View GTFS data interactively (like visualizing routes that run just on a weekend) and match real GPS traces and bus ticketing events to the schedule. The GTFS viewer portion is partly superceded by the 15-minute tool v2.
+
+- [Code](https://github.com/dabreegster/bus_spotting)
+
+### lines2pmtiles
+
+Convert GeoJSON points and lines to [PMTiles](https://docs.protomaps.com/pmtiles) in Rust. An alternative to [tippecanoe](https://github.com/felt/tippecanoe) that could run in the browser with WASM. Some initial results, but needs much more work.
+
+- [Code](https://github.com/Urban-Analytics-Technology-Platform/lines2pmtiles)
+
+### odjitter
+
+Turn aggregate zone-level origin/destination data into specific "disaggregated" flows.
+
+- [Code](https://github.com/dabreegster/odjitter)
+- Audience: data scientists
+- Status: Usable, but abandoned. Use od2net instead.
+
+### Polygon widths
+
+Attempting to measure the width along irregular road and pavement polygons with high granularity, using Voronoi straight skeletons.
+
+- [Code](https://github.com/dabreegster/polygon-width)
+
+### Will it fit?
+
+Given highly detailed width data (from polygon-widths or similar), a route, and the width required by different cross sections, figure out which cross sections will fit along different parts of the route. Identify "pinch points" where nothing fits. This will eventually become part of the inspectorate tools cross-section check, if successful.
+
+- [Code](https://github.com/acteng/will-it-fit)
+
+### Others
+
+- [Temporal city](https://github.com/dabreegster/temporal_city): Looking at OSM opening hours to see what parts of a city are lively at night or early on a Saturday
+- [SVG face](https://github.com/dabreegster/svg_face): Generate random SVG faces for A/B Street
+- [Canvas geometry](https://github.com/dabreegster/canvas_geometry): Exploring if road width can be calclated from OSM building footprints, and trying out SVG rendering
+
+## Libraries
+
+Aside from route-snapper and osm2streets, these're smaller libraries in support of larger projects.
+
+- [country-geocoder](https://github.com/a-b-street/country-geocoder): given a WGS84 point, reverse geocode into the country and direction of traffic
+- [elevation](https://github.com/dabreegster/elevation): build on pure Rust crates to read elevation from GeoTIFFs
+- [osm-reader](https://github.com/a-b-street/osm-reader): read OSM XML or PBF interchangeably in Rust
+- [utils](https://github.com/a-b-street/utils/): common Rust code that's yet to be upstreamed elsewhere or properly split out
+- [svelte-utils](https://github.com/a-b-street/svelte-utils): common Svelte code yet to be properly split out into a library
