@@ -23,11 +23,11 @@ To help out a cycle advocate in France, I started a different interpretation on 
 
 But of course the presentation is very messy, and the analysis not configurable enough yet. There are [plenty of ideas](https://github.com/a-b-street/15m/issues/6) to take this idea forward, and make catchment analyses trivial to calculate directly from your browser, minimal setup required.
 
-![](gtfs.mp4)
+<video controls width="800"><source src="gtfs.mp4" /></video>
 
 Probably the coolest new bit is routing combining GTFS public transit data and walking. I'll write more later about how the [Dijkstra-like algorithm](https://github.com/a-b-street/15m/blob/main/backend/src/transit_route.rs) works -- it's nothing unexpected, and pretty much similar to the implementation buried in A/B Street simulation code. It's just really fun to see this work at London-scale in a browser, quickly enough to be usable. Many [next steps](https://github.com/a-b-street/15m/issues/4) here, but probably the hardest is "productionizing" this so people can actually play with it from the browser. Right now the imports are only pulling OSM data from Overpass; no GTFS data. I need a simple API hosted somewhere to give raw GTFS data (or maybe preferably in a compact binary form) given a clipping polygon. First idea is probably to preprocess huge feeds (like the [UK's BODS](https://data.bus-data.dft.gov.uk/)) into flatgeobuffer files.
 
-![](debug_gtfs.mp4)
+<video controls width="800"><source src="debug_gtfs.mp4" /></video>
 
 The _really_ cool bit is this tool for visualizing the search process for that Dijkstra-like algorithm. Just record the edges searched in order and lean on MapLibre to visualize later. I love watching the walking search fan-out at crazy stations like Canary Wharf, and that moment when the search stumbles upon the next station and suddenly takes huge leaps towards the goal is just... exhilarating.
 
@@ -41,7 +41,7 @@ Overall, I'm very excited to continue all of the strands of work here. Things li
 
 The web reboot of the [low-traffic neighbourhood tool](https://a-b-street.github.io/ltn/) and [Severance Snape](https://a-b-street.github.io/severance_snape) were my big focuses earlier in the year, but I got side-tracked by starting new efforts instead of polishing these. This is a general weakness of mine, but is also partly because I'm still holding out for a UX designer to help me solve many of the remaining challenges, which're just too far outside my expertise and interests.
 
-![](ltn_dots.mp4)
+<video controls width="800"><source src="ltn_dots.mp4" /></video>
 
 I did try one new visualization for the LTN tool, but I'm not quite happy with it. Originally I wanted to just use MapLibre transitions to gradually animate the redness of shortcuts after adding a modal filter, but after a long rabbit hole without results, I gave up on that approach. Instead I tried something else -- animate some "cars" moving along the combinatoric explosion of shortcuts in a neighbourhood, weighted by the likelihood of that shortcut. Intuitively the interior streets with more cut-through traffic have more dots. I think it helps get the point across, but the visualization is pretty "loud" and interrupts other interactions, so it's off by default.
 
