@@ -19,7 +19,7 @@ The first bit of functionality ported is the classic isochrone/reachability calc
 
 To help out a cycle advocate in France, I started a different interpretation on the "calculate an accessibility score" question. Starting from a chosen set of origins (schools and doctors, in the example above), how far is the closest bicycle parking by foot? These raw results are debuggable -- you can hover on an origin and verify the path to the nearest destination:
 
-![](debug_scores.gif)
+![](debug_score.gif)
 
 But of course the presentation is very messy, and the analysis not configurable enough yet. There are [plenty of ideas](https://github.com/a-b-street/15m/issues/6) to take this idea forward, and make catchment analyses trivial to calculate directly from your browser, minimal setup required.
 
@@ -31,7 +31,7 @@ Probably the coolest new bit is routing combining GTFS public transit data and w
 
 The _really_ cool bit is this tool for visualizing the search process for that Dijkstra-like algorithm. Just record the edges searched in order and lean on MapLibre to visualize later. I love watching the walking search fan-out at crazy stations like Canary Wharf, and that moment when the search stumbles upon the next station and suddenly takes huge leaps towards the goal is just... exhilarating.
 
-![](loading.webm)
+<video controls width="800"><source src="loading.webm" /></video>
 
 The last "feature" just kind of happens to be implemented in this tool (and only here, still). The loading screen above is being updated by synchronous Rust code running in a web worker, off the main thread. I've had this kind of nice loading screen in the desktop versions of A/B Street tools since the beginning, but it's been almost impossible to get it working on web until now. I'm not entirely [happy with the results](https://github.com/a-b-street/15m/pull/2) -- using web workers introduces unavoidable overhead (from copying between threads) and forcing every backend call to be async gets funky.
 
