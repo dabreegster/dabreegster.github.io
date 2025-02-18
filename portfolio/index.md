@@ -260,7 +260,7 @@ Aside from route-snapper and osm2streets, these're smaller libraries in support 
 
 ## Projects I'm involved in
 
-Through my job at the [Alan Turing Institute](https://urban-analytics-technology-platform.github.io), I'm involved in a few projects, but not leading or doing very much on them:
+Through my prior job at the [Alan Turing Institute](https://urban-analytics-technology-platform.github.io), I'm involved in a few projects, but not leading or doing very much on them:
 
 ### Synthetic Population Catalyst
 
